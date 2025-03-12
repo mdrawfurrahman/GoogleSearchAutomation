@@ -22,7 +22,7 @@ import java.util.Random;
 public class Main {
 
     // Path to the Excel file where search keywords are stored
-    private static final String EXCEL_FILE_PATH = "D:/Projects/q1_assignment_project/excel.xlsx";
+    private static final String EXCEL_FILE_PATH = ""D:/Projects/GoogleSearchAutomation/Excel.xlsx"";
 
     // Path to the Chrome WebDriver executable
     private static final String CHROME_DRIVER_PATH = "D:/Projects/GoogleSearchAutomation/chromedriver-win64/chromedriver.exe";
